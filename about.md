@@ -1,18 +1,29 @@
 ---
-title: Colophon
+title: Deniz Zengin
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
-comments: false
+excerpt: It's Deniz
+comments: true
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+It's Deniz and trying to be
 
-If you have a question about him or else, just send a letter to him.
+- 👀 curios as much as a junior developer
+- 👀 make sense of softare things as much as a senir developer
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Here is my story,
 
-**may u needs ✨**
+- 🌱 Born in 1993
+- 🌱 Studied in Istanbul University, Computer Engineering
+- 🌱 Have been working professionally with
+  <strong>.NET Framework, .NET(Previously .NET Core)
+  c# and many other databases, libraries, tools </strong>
+  since 2016.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Any question ? please, don’t hesitate me send a mail…
+
+**How to reach me 📫**
+
+- 📫 <strong> ddenizzenginn@gmail.com </strong>
+- <a href ="https://github.com/denizzengin" target="_blank" rel="noopener"><img src="/assets/favicons/github.png" alt="Icon" style="width: 30px; height: 30px;"> </a>
+  <a href ="https://www.linkedin.com/in/deniz-zengin" target="_blank" rel="noopener"><img src="/assets/favicons/linkedin.png" alt="Icon" style="width: 30px; height: 30px;"> </a>
