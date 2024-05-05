@@ -176,7 +176,7 @@ Here is the response to how we check enum group contains or does not a given enu
   Console.WriteLine(groupedType.HasFlag(StudentType.Univertsity)); // HasFlag 
  ```
 
-Also, c# enums doesn't support implicit conversion. The below code gives compiling error,
+# Also, c# enums doesn't support implicit conversion. The below code gives compiling error,
 {% highlight c# %}
 StudentType studentTypeNone = StudentType.Unknown;
 int studentTypeNoneUnderlyingValue = studentTypeNone; // invalid
